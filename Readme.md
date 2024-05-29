@@ -1,26 +1,24 @@
 # Project README
 ## Project Overview
+
 This project consists of a frontend built with React and Vite, and a backend built with Node.js. The backend utilizes several libraries including Nodemailer, JWT, and MongoDB, while the frontend incorporates Recoil for state management and Tailwind CSS for styling.
 
 # Table of Contents
 ## Project Overview
 ### Frontend
-Installation
-Development Server
-Build
+
+React
 Recoil
 Tailwind CSS
+
 ### Backend
-Installation
-Environment Variables
-Run the Server
+
+Node.js
+Express.js
 Nodemailer
 JWT
 MongoDB
-Contributing
-License
-Frontend
-Installation
+
 ## Navigate to the frontend directory:
 
 ```js
